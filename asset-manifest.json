@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NEV117/Mark-Down-Blog/static/css/main.066595c6.css",
+    "main.js": "/NEV117/Mark-Down-Blog/static/js/main.0668134a.js",
+    "static/js/637.1f2cbb57.chunk.js": "/NEV117/Mark-Down-Blog/static/js/637.1f2cbb57.chunk.js",
+    "static/media/article.md": "/NEV117/Mark-Down-Blog/static/media/article.2aa456aa4779a11d7c0a.md",
+    "index.html": "/NEV117/Mark-Down-Blog/index.html",
+    "main.066595c6.css.map": "/NEV117/Mark-Down-Blog/static/css/main.066595c6.css.map",
+    "main.0668134a.js.map": "/NEV117/Mark-Down-Blog/static/js/main.0668134a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.066595c6.css",
+    "static/js/main.0668134a.js"
+  ]
+}
